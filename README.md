@@ -3,5 +3,5 @@ I have created PPTX for understanding the Rostering problem in a dynamic process
 this method 
 Paper Link https://www.sciencedirect.com/science/article/pii/S2192437620300212
 
-Also the Data Science Use Case I have did basic EDA and built a basic model for the results
+Also I have implemented the Data Science Use Case 1 in which i have done basic EDA and built a basic model for the results
 
